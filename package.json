@@ -14,11 +14,7 @@
 
     "start": "SET NODE_ENV=development&& nodemon server.js",
 
-<<<<<<< HEAD
-    "start-prod": "SET NODE_ENV=production node server.js",
-=======
-    "start-prod": "NODE_ENV=production node server.js",
->>>>>>> 710d61f74241c43c4ecefe2aad0b4991b11dbf64
+    "start-prod": "SET NODE_ENV=production&& node server.js",
 
     "seed": "node seed.js",
 
