@@ -1,0 +1,10 @@
+{
+    "jwtPrivateKey":"vidly_jwtPrivateKey",
+<<<<<<< HEAD
+    "db": "vidly_db",
+    "dev":"dev"
+}
+=======
+    "db": "vidly_db"
+}
+>>>>>>> 710d61f74241c43c4ecefe2aad0b4991b11dbf64
